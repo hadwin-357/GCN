@@ -1,2 +1,2 @@
-# GCN
-This is a GCN learning project.
+# GNN
+This is a graphic neural network learning project.
